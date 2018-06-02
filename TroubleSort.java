@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.*;
-public class Solution{
+public class TroubleSort{
     static long err;
     public static void main(String args[]){
         Scanner kb= new Scanner(new BufferedReader(new InputStreamReader(System.in)));
