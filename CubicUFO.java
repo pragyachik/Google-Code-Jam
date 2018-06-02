@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 import java.lang.*;
-public class Solution{
+public class CubicUFO{
     public static double m1,m2,n1,n2, y11;
     public static void main(String args[]){
         Scanner kb=new Scanner(System.in);
