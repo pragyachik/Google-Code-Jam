@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Solution{
+public class NumberGuessing{
     public static void main(String args[]){
         Scanner kb= new Scanner(new BufferedReader(new InputStreamReader(System.in)));
         long t=kb.nextInt();
